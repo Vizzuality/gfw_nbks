@@ -3,6 +3,8 @@
 
 A collection of Jupyter Notebooks to test, and support features of the Global Forest Watch platform.
 
+The first notebook (1.Globals_and_Metadata.ipynb) contains functions and dicts that are imported and used throughout the rest of the notebooks - be sure to reference this when working on a widget!
+
 
 ### Requirements
 
